@@ -1,8 +1,8 @@
 # Team 2: Texture Analysis
 ## Requirements:
--`numpy`
--`matplotlib`
--`skimage`
+- `numpy`
+- `matplotlib`
+- `skimage`
 
 ## How to run:
 - `texture_analysis_student.ipynb`
